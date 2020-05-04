@@ -20,6 +20,11 @@ namespace EjercicioCSS.Controllers
             return View();
         }
 
+        public ActionResult Ejercicio2()
+        {
+            return View();
+        }
+
    
     }
 }
