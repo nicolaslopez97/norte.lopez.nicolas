@@ -29,5 +29,25 @@ namespace EjercicioCSS.Controllers
         {
             return View();
         }
+
+        public ActionResult Ejercicio4()
+        {
+            return View();
+        }
+
+        public ActionResult Ejercicio5()
+        {
+            return View();
+        }
+
+        public ActionResult Ejercicio6()
+        {
+            return View();
+        }
+
+        public ActionResult Ejercicio7()
+        {
+            return View();
+        }
     }
 }
