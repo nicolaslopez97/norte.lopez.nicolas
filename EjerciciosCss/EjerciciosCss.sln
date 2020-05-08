@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios", "..\..\TestRepository\EjerciciosHtml\Ejercicios\Ejercicios.csproj", "{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioCSS", "EjercicioCSS\EjercicioCSS.csproj", "{2C514615-1153-414E-88EC-D61BB25F2207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios", "Ejercicios\Ejercicios.csproj", "{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2C514615-1153-414E-88EC-D61BB25F2207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2C514615-1153-414E-88EC-D61BB25F2207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C514615-1153-414E-88EC-D61BB25F2207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C514615-1153-414E-88EC-D61BB25F2207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C064F01-3FFC-4C6D-981B-4DE66C139DAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
