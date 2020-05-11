@@ -1,0 +1,24 @@
+﻿.content {
+    width: 60em;
+    margin: 0 auto
+}
+
+section {
+    width: 44em;
+    float: right;
+}
+
+aside {
+    width: 16em;;
+    float:left;
+}
+
+header {
+    text-align: center;
+}
+
+.column{
+    
+    width: 33%;
+    float:left;
+}
