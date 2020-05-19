@@ -4,24 +4,24 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title</title>
-    <link rel="stylesheet" type="text/css" href="~/Content/Layout.css" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
 </head>
 <body>
 
     <div class="Contenedor">
-        <header>
+        <nav id="menu">
             <ul id="BarraNavegacion">
                 <li>
                     <a class="buttons" href="/Home/Index"><span class="BotonesNavegacion">Home</span></a>
                 </li>
                 <li>
-                    Ejercicios
+                    <a class="buttons" href="/Home/Ejercicios"><span class="BotonesNavegacion">Ejercicios</span></a>
                 </li>
                 <li>
-                    Contacto
+                    <a class="buttons" href="/Home/Contacto"><span class="BotonesNavegacion">Contacto</span></a>
                 </li>
             </ul>
-        </header>
+        </nav>
         <div class="BodyContent">
             @RenderBody()
         </div>
